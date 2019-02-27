@@ -72,10 +72,12 @@ module.exports = {
                         slug
                       }
                       frontmatter {
+
                         title
                         date
                         template
                         draft
+                        places
                         description
                       }
                     }

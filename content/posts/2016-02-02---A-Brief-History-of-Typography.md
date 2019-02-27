@@ -5,6 +5,7 @@ template: 'post'
 draft: false
 slug: '/posts/a-brief-history-of-typography/'
 category: 'Design Inspiration'
+places: Japan
 tags:
   - 'Linotype'
   - 'Monotype'

@@ -23,7 +23,7 @@ module.exports = {
     },
     {
       label: 'Carte',
-      path: '/tags'
+      path: '/map'
     }
   ],
   author: {

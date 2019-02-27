@@ -5,6 +5,7 @@ const _ = require('lodash');
 const createCategoriesPages = require('./pagination/create-categories-pages.js');
 const createTagsPages = require('./pagination/create-tags-pages.js');
 const createPostsPages = require('./pagination/create-posts-pages.js');
+const createPlacesPages = require('./pagination/create-places-pages.js');
 
 const createPages = async ({ graphql, actions }) => {
   const { createPage } = actions;
@@ -21,6 +22,12 @@ const createPages = async ({ graphql, actions }) => {
     component: path.resolve('./src/templates/tags-list-template.js')
   });
 
+  // Map List
+  createPage({
+    path: 'map',
+    component: path.resolve('./src/templates/map-list-template.js')
+  });
+
   // Categories list
   createPage({
     path: '/categories',
@@ -30,9 +37,7 @@ const createPages = async ({ graphql, actions }) => {
   // Posts and pages from markdown
   const result = await graphql(`
     {
-      allMarkdownRemark(
-        filter: { frontmatter: { draft: { ne: true } } }
-      ) {
+      allMarkdownRemark(filter: { frontmatter: { draft: { ne: true } } }) {
         edges {
           node {
             frontmatter {
@@ -69,7 +74,7 @@ const createPages = async ({ graphql, actions }) => {
   await createTagsPages(graphql, actions);
   await createCategoriesPages(graphql, actions);
   await createPostsPages(graphql, actions);
+  await createPlacesPages(graphql, actions);
 };
-
 
 module.exports = createPages;

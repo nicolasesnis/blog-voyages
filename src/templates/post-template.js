@@ -4,15 +4,9 @@ import Layout from '../components/Layout';
 import Post from '../components/Post';
 
 const PostTemplate = ({ data }) => {
-  const {
-    title: siteTitle,
-    subtitle: siteSubtitle
-  } = data.site.siteMetadata;
+  const { title: siteTitle, subtitle: siteSubtitle } = data.site.siteMetadata;
 
-  const {
-    title: postTitle,
-    description: postDescription
-  } = data.markdownRemark.frontmatter;
+  const { title: postTitle, description: postDescription } = data.markdownRemark.frontmatter;
 
   const metaDescription = postDescription !== null ? postDescription : siteSubtitle;
 
@@ -46,6 +40,7 @@ export const query = graphql`
         tagSlugs
       }
       frontmatter {
+        places
         date
         description
         tags

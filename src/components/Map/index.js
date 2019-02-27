@@ -1,55 +1,36 @@
-import React from 'react';
-import { compose, withProps } from 'recompose';
-import {
-  withScriptjs, withGoogleMap, GoogleMap, Marker
-} from 'react-google-maps';
+import React, { Component } from 'react';
+import GoogleMapReact from 'google-map-react';
 
-const MyMapComponent = compose(
-  withProps({
-    googleMapURL:
-      'https://maps.googleapis.com/maps/api/js?v=3?key=AIzaSyCXO2U5Xf3gM71fEmgH46dUmOwSp3xizXc',
-    loadingElement: <div style={{ height: '100%' }} />,
-    containerElement: <div style={{ height: '400px' }} />,
-    mapElement: <div style={{ height: '100%' }} />
-  }),
-  withScriptjs,
-  withGoogleMap
-)((props) => (
-  <GoogleMap defaultZoom={8} defaultCenter={{ lat: -34.397, lng: 150.644 }}>
-    {props.isMarkerShown && (
-      <Marker position={{ lat: -34.397, lng: 150.644 }} onClick={props.onMarkerClick} />
-    )}
-  </GoogleMap>
-));
+const markerStyle = {
+  width: '10px', height: '10px', borderRadius: '50%', backgroundColor: 'blue'
+};
+const AnyReactComponent = () => <div style={markerStyle} />;
 
-class MyFancyComponent extends React.PureComponent {
-  state = {
-    isMarkerShown: false
-  };
-
-  componentDidMount() {
-    this.delayedShowMarker();
-  }
-
-  delayedShowMarker = () => {
-    setTimeout(() => {
-      this.setState({ isMarkerShown: true });
-    }, 3000);
-  };
-
-  handleMarkerClick = () => {
-    this.setState({ isMarkerShown: false });
-    this.delayedShowMarker();
+class SimpleMap extends Component {
+  static defaultProps = {
+    center: {
+      lat: 48.864716,
+      lng: 2.349014
+    },
+    zoom: 0
   };
 
   render() {
     return (
-      <MyMapComponent
-        isMarkerShown={this.state.isMarkerShown}
-        onMarkerClick={this.handleMarkerClick}
-      />
+      // Important! Always set the container height explicitly
+      <div style={{ height: '100vh', width: '100%' }}>
+        <GoogleMapReact
+          bootstrapURLKeys={{ key: process.env.GOOGLE_MAP_API_KEY }}
+          defaultCenter={this.props.center}
+          defaultZoom={this.props.zoom}
+        >
+          <AnyReactComponent lat={59.955413} lng={30.337844} />
+          <AnyReactComponent lat={32.12} lng={90.7844} />
+          <AnyReactComponent lat={48.864716} lng={2.349014} />
+        </GoogleMapReact>
+      </div>
     );
   }
 }
 
-export default MyFancyComponent;
+export default SimpleMap;

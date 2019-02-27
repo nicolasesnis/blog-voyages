@@ -5,6 +5,7 @@ template: 'post'
 draft: false
 slug: '/posts/italie-roadtrip/'
 category: 'Italie'
+places: Japan
 tags:
   - 'Roadtrip'
   - 'Kangoo'
