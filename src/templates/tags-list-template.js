@@ -4,12 +4,10 @@ import kebabCase from 'lodash/kebabCase';
 import Layout from '../components/Layout';
 import Sidebar from '../components/Sidebar';
 import Page from '../components/Page';
+import MyFancyComponent from '../components/Map';
 
 const TagsListTemplate = ({ data }) => {
-  const {
-    title,
-    subtitle
-  } = data.site.siteMetadata;
+  const { title, subtitle } = data.site.siteMetadata;
   const { group } = data.allMarkdownRemark;
 
   return (
@@ -25,6 +23,7 @@ const TagsListTemplate = ({ data }) => {
             </li>
           ))}
         </ul>
+        <MyFancyComponent />
       </Page>
     </Layout>
   );
@@ -34,13 +33,11 @@ export const query = graphql`
   query TagsListQuery {
     site {
       siteMetadata {
-        title,
+        title
         subtitle
       }
     }
-    allMarkdownRemark(
-      filter: { frontmatter: { template: { eq: "post" }, draft: { ne: true } } }
-    ) {
+    allMarkdownRemark(filter: { frontmatter: { template: { eq: "post" }, draft: { ne: true } } }) {
       group(field: frontmatter___tags) {
         fieldValue
         totalCount
