@@ -5,7 +5,7 @@ template: 'post'
 draft: false
 slug: '/posts/humane-typography-in-the-digital-age/'
 category: 'Typography'
-places: Japan
+country: United States
 tags:
   - 'Design'
   - 'Typography'

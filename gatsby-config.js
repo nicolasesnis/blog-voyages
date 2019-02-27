@@ -77,7 +77,7 @@ module.exports = {
                         date
                         template
                         draft
-                        places
+                        country
                         description
                       }
                     }

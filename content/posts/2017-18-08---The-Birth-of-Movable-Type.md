@@ -5,7 +5,7 @@ template: 'post'
 draft: false
 slug: '/posts/the-birth-of-movable-type/'
 category: 'Typography'
-places: Japan
+country: Netherlands
 tags:
   - 'Open source'
   - 'Gatsby'

@@ -10,7 +10,7 @@ description: >-
   ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit
   dolor. Sed non quam. In vel mi sit amet augue congue elementum.
 category: Design Inspiration
-places: Japan
+country: Japan
 tags:
   - Handwriting
   - Learning to write

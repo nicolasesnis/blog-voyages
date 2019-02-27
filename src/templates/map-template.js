@@ -1,71 +1,49 @@
 import React from 'react';
-import { graphql } from 'gatsby';
+import { Link, graphql } from 'gatsby';
+import kebabCase from 'lodash/kebabCase';
 import Layout from '../components/Layout';
 import Sidebar from '../components/Sidebar';
-import Feed from '../components/Feed';
 import Page from '../components/Page';
-import Pagination from '../components/Pagination';
+import SimpleMap from '../components/Map';
 
-const PlaceTemplate = ({ data, pageContext }) => {
-  const { title: siteTitle, subtitle: siteSubtitle } = data.site.siteMetadata;
-
-  const {
-    place, currentPage, prevPagePath, nextPagePath, hasPrevPage, hasNextPage
-  } = pageContext;
-
-  const { edges } = data.allMarkdownRemark;
-  const pageTitle = currentPage > 0
-    ? `All Posts tagged as "${place}" - Page ${currentPage} - ${siteTitle}`
-    : `All Posts tagged as "${place}" - ${siteTitle}`;
+const TagsListTemplate = ({ data }) => {
+  const { title, subtitle } = data.site.siteMetadata;
+  const { group } = data.allMarkdownRemark;
 
   return (
-    <Layout title={pageTitle} description={siteSubtitle}>
+    <Layout title={`Pays - ${title}`} description={subtitle}>
       <Sidebar />
-      <Page title={place}>
-        <Feed edges={edges} />
-        <Pagination
-          prevPagePath={prevPagePath}
-          nextPagePath={nextPagePath}
-          hasPrevPage={hasPrevPage}
-          hasNextPage={hasNextPage}
-        />
+      <Page title="Pays">
+        <ul>
+          {group.map((country) => (
+            <li key={country.fieldValue}>
+              <Link to={`/country/${kebabCase(country.fieldValue)}/`}>
+                {country.fieldValue} ({country.totalCount})
+              </Link>
+            </li>
+          ))}
+        </ul>
+        <SimpleMap />
       </Page>
     </Layout>
   );
 };
 
 export const query = graphql`
-  query PlacePage($place: String, $postsLimit: Int!, $postsOffset: Int!) {
+  query MapQuery {
     site {
       siteMetadata {
         title
         subtitle
       }
     }
-    allMarkdownRemark(
-      limit: $postsLimit
-      skip: $postsOffset
-      filter: {
-        frontmatter: { places: { in: [$place] }, template: { eq: "post" }, draft: { ne: true } }
-      }
-      sort: { order: DESC, fields: [frontmatter___date] }
-    ) {
-      edges {
-        node {
-          fields {
-            slug
-            categorySlug
-          }
-          frontmatter {
-            title
-            date
-            category
-            description
-          }
-        }
+    allMarkdownRemark(filter: { frontmatter: { template: { eq: "post" }, draft: { ne: true } } }) {
+      group(field: frontmatter___country) {
+        fieldValue
+        totalCount
       }
     }
   }
 `;
 
-export default PlaceTemplate;
+export default TagsListTemplate;

@@ -6,11 +6,11 @@ import Feed from '../components/Feed';
 import Page from '../components/Page';
 import Pagination from '../components/Pagination';
 
-const CategoryTemplate = ({ data, pageContext }) => {
+const CountryTemplate = ({ data, pageContext }) => {
   const { title: siteTitle, subtitle: siteSubtitle } = data.site.siteMetadata;
 
   const {
-    category,
+    country,
     currentPage,
     prevPagePath,
     nextPagePath,
@@ -20,13 +20,13 @@ const CategoryTemplate = ({ data, pageContext }) => {
 
   const { edges } = data.allMarkdownRemark;
   const pageTitle = currentPage > 0
-    ? `${category} - Page ${currentPage} - ${siteTitle}`
-    : `${category} - ${siteTitle}`;
+    ? `All Posts tagged as "${country}" - Page ${currentPage} - ${siteTitle}`
+    : `All Posts tagged as "${country}" - ${siteTitle}`;
 
   return (
     <Layout title={pageTitle} description={siteSubtitle}>
       <Sidebar />
-      <Page title={category}>
+      <Page title={country}>
         <Feed edges={edges} />
         <Pagination
           prevPagePath={prevPagePath}
@@ -40,7 +40,7 @@ const CategoryTemplate = ({ data, pageContext }) => {
 };
 
 export const query = graphql`
-  query CategoryPage($category: String, $postsLimit: Int!, $postsOffset: Int!) {
+  query CountryPage($country: String, $postsLimit: Int!, $postsOffset: Int!) {
     site {
       siteMetadata {
         title
@@ -51,21 +51,21 @@ export const query = graphql`
       limit: $postsLimit
       skip: $postsOffset
       filter: {
-        frontmatter: { category: { eq: $category }, template: { eq: "post" }, draft: { ne: true } }
+        frontmatter: { country: { eq: $country }, template: { eq: "post" }, draft: { ne: true } }
       }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {
         node {
           fields {
-            categorySlug
             slug
+            categorySlug
           }
           frontmatter {
-            date
-            description
-            category
             title
+            date
+            category
+            description
           }
         }
       }
@@ -73,4 +73,4 @@ export const query = graphql`
   }
 `;
 
-export default CategoryTemplate;
+export default CountryTemplate;

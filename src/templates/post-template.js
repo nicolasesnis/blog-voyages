@@ -40,7 +40,7 @@ export const query = graphql`
         tagSlugs
       }
       frontmatter {
-        places
+        country
         date
         description
         tags

@@ -5,7 +5,7 @@ template: 'post'
 draft: false
 slug: '/posts/the-origins-of-social-stationery-lettering'
 category: 'Design Culture'
-places: Japan
+country: Myanmar
 tags:
   - 'Typefaces'
   - 'Lettering'
