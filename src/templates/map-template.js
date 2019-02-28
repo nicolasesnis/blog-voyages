@@ -23,8 +23,9 @@ class TagsListTemplate extends React.Component {
       .then(
         (response) => {
           this.setState({
-            markers: [...this.state.markers, response.results[0].geometry.location]
+            markers: [...this.state.markers, response.results[0]]
           });
+          console.log(response);
         },
         (error) => {
           console.error(error);

@@ -1,13 +1,7 @@
 import React, { Component } from 'react';
-import GoogleMapReact from 'google-map-react';
 
-const markerStyle = {
-  width: '10px',
-  height: '10px',
-  borderRadius: '50%',
-  backgroundColor: 'blue'
-};
-const Marker = () => <div style={markerStyle} />;
+import GoogleMapReact from 'google-map-react';
+import Marker from './Marker.js';
 
 class SimpleMap extends Component {
   static defaultProps = {
@@ -22,14 +16,18 @@ class SimpleMap extends Component {
     return (
       // Important! Always set the container height explicitly
       <div style={{ height: '100vh', width: '100%' }}>
-        {console.log(process.env.GATSBY_GOOGLE_API_KEY)}
         <GoogleMapReact
           bootstrapURLKeys={{ key: process.env.GATSBY_GOOGLE_API_KEY }}
           defaultCenter={this.props.center}
           defaultZoom={this.props.zoom}
         >
           {this.props.markers.map((marker, index) => (
-            <Marker key={index} lat={marker.lat} lng={marker.lng} />
+            <Marker
+              key={index}
+              lat={marker.geometry.location.lat}
+              lng={marker.geometry.location.lng}
+              text={marker.formatted_address}
+            />
           ))}
         </GoogleMapReact>
       </div>
