@@ -4,7 +4,7 @@ date: '2018-08-31'
 template: 'post'
 draft: false
 slug: '/posts/italie-roadtrip/'
-category: 'Italie'
+category: Italie
 country: 'Italie'
 tags:
   - 'Roadtrip'
