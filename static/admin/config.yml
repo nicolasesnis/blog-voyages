@@ -31,7 +31,7 @@ collections:
       - { label: 'Catégorie', name: 'category', widget: 'string' }
       - { label: 'Texte', name: 'body', widget: 'markdown' }
       - { label: 'Tags', name: 'tags', widget: 'list' }
-      - { label: 'Pays', name: 'country', widget: 'list' }
+      - { label: 'Pays', name: 'country', widget: 'string' }
 
   - name: 'pages'
     label: 'Pages'
