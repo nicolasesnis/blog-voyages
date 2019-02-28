@@ -12,7 +12,9 @@ tags:
   - opéra
   - weekend
   - Vienne
-country: 'Vienne Autriche'
+country: 'Autriche'
+city:
+  - Vienne
 ---
 
 ![mille-bieres-a-vienne](/media/50755921_489931831532900_6075382105213239296_n.jpg "Super bar à bières dans Vienne, près de l'Opéra")

@@ -41,6 +41,7 @@ export const query = graphql`
       }
       frontmatter {
         country
+        city
         date
         description
         tags

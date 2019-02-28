@@ -11,7 +11,9 @@ description: >-
 category: skatepark
 tags:
   - skatepark
-country: Eindhoven Pays-Bas
+country: Pays-Bas
+city:
+  - Eindhoven
 ---
 
 ![elsa-et-avocat](/media/52156560_534790013596024_1387334231142694912_n.jpg 'Délicieuse tartine avocat hummus à Eindhoven')

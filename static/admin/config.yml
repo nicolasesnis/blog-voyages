@@ -32,6 +32,7 @@ collections:
       - { label: 'Texte', name: 'body', widget: 'markdown' }
       - { label: 'Tags', name: 'tags', widget: 'list' }
       - { label: 'Pays', name: 'country', widget: 'string' }
+      - { label: 'Ville(s)', name: 'city', widget: 'list' }
 
   - name: 'pages'
     label: 'Pages'

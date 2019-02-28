@@ -78,6 +78,7 @@ module.exports = {
                         template
                         draft
                         country
+                        city
                         description
                       }
                     }

@@ -19,19 +19,24 @@ class TagsListTemplate extends React.Component {
   componentDidMount() {
     Geocode.setApiKey(process.env.GATSBY_GOOGLE_API_KEY);
     Geocode.enableDebug();
-    this.props.data.allMarkdownRemark.group.map((country) => Geocode.fromAddress(country.fieldValue)
-      .then(
-        (response) => {
-          this.setState({
-            markers: [...this.state.markers, response.results[0]]
-          });
-          console.log(response);
-        },
-        (error) => {
-          console.error(error);
-        }
-      )
-      .then(this.setState({ loading: false })));
+    console.log(this.props.data.allMarkdownRemark);
+    this.props.data.allMarkdownRemark.edges.map((edge) => {
+      edge.node.city.city.map((city) => {
+        Geocode.fromAddress(`${city} ${edge.node.country.country}`)
+          .then(
+            (response) => {
+              this.setState({
+                markers: [...this.state.markers, response.results[0]]
+              });
+              console.log(response);
+            },
+            (error) => {
+              console.error(error);
+            }
+          )
+          .then(this.setState({ loading: false }));
+      });
+    });
   }
 
   render() {
@@ -40,10 +45,10 @@ class TagsListTemplate extends React.Component {
         <Sidebar />
         <Page title="Pays">
           <ul>
-            {this.props.data.allMarkdownRemark.group.map((country) => (
-              <li key={country.fieldValue}>
-                <Link to={`/country/${kebabCase(country.fieldValue)}/`}>
-                  {country.fieldValue} ({country.totalCount})
+            {this.props.data.allMarkdownRemark.edges.map((edge) => (
+              <li key={edge.node.country.country}>
+                <Link to={`/country/${kebabCase(edge.node.country.country)}/`}>
+                  {edge.node.country.country} ({edge.node.city.city.length})
                 </Link>
               </li>
             ))}
@@ -64,9 +69,15 @@ export const query = graphql`
       }
     }
     allMarkdownRemark(filter: { frontmatter: { template: { eq: "post" }, draft: { ne: true } } }) {
-      group(field: frontmatter___country) {
-        fieldValue
-        totalCount
+      edges {
+        node {
+          country: frontmatter {
+            country
+          }
+          city: frontmatter {
+            city
+          }
+        }
       }
     }
   }

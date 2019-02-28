@@ -6,6 +6,9 @@ draft: false
 slug: '/posts/italie-roadtrip/'
 category: Italie
 country: 'Italie'
+city:
+  - 'Roma'
+  - 'Napoli'
 tags:
   - 'Roadtrip'
   - 'Kangoo'
