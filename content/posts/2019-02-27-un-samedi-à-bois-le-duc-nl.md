@@ -5,7 +5,8 @@ slug: boisleduc
 draft: false
 date: '2019-02-27T13:58:47.715Z'
 description: 'Un week-end comme un autre chez les Cornichons Voyageurs : sur la route...'
-country: Netherlands
+country: 'Netherlands'
+category: 'Italie'
 tags:
   - trip
   - weekend
