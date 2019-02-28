@@ -76,6 +76,7 @@
     "react": "^16.8.1",
     "react-disqus-comments": "^1.4.0",
     "react-dom": "^16.8.1",
+    "react-geocode": "^0.1.2",
     "react-google-maps": "^9.4.5",
     "react-helmet": "^5.2.0",
     "recompose": "^0.30.0"

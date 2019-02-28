@@ -9,9 +9,7 @@ import styles from './Post.module.scss';
 
 const Post = ({ post }) => {
   const {
-    tags,
-    title,
-    date
+    tags, title, date, country
   } = post.frontmatter;
 
   const { html } = post;
@@ -19,10 +17,12 @@ const Post = ({ post }) => {
 
   return (
     <div className={styles['post']}>
-      <Link className={styles['post__home-button']} to="/">All Articles</Link>
+      <Link className={styles['post__home-button']} to="/">
+        All Articles
+      </Link>
 
       <div className={styles['post__content']}>
-        <Content body={html} title={title} />
+        <Content body={html} title={title} country={country} />
       </div>
 
       <div className={styles['post__footer']}>

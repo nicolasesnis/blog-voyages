@@ -5,7 +5,7 @@ template: 'post'
 draft: false
 slug: '/posts/italie-roadtrip/'
 category: 'Italie'
-country: Spain
+country: 'Italie'
 tags:
   - 'Roadtrip'
   - 'Kangoo'
