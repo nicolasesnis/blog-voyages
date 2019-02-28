@@ -1,7 +1,7 @@
 ---
 template: post
 title: Winterclash 2019 à Eindhoven
-slug: winterclash-eigndhoven
+slug: winterclash-eindhoven
 draft: false
 date: '2019-02-16T14:20:38.418Z'
 description: >-
