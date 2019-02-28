@@ -17,7 +17,7 @@ class TagsListTemplate extends React.Component {
   }
 
   componentDidMount() {
-    Geocode.setApiKey(process.env.GOOGLE_API_KEY);
+    Geocode.setApiKey(process.env.GATSBY_GOOGLE_API_KEY);
     Geocode.enableDebug();
     this.props.data.allMarkdownRemark.group.map((country) => Geocode.fromAddress(country.fieldValue)
       .then(
