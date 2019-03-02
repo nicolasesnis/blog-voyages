@@ -51,4 +51,10 @@ La chambre d'Alex et Roland, plus mimi tu meurs :
 
 ![pipowagen-chambre-1](/media/52498842_540974253057976_6539123987748749312_n.jpg "Chambre 1")
 
-Super adresse que je vous recommande, surtout s'il y a un peu de Soleil.
+Super adresse que je vous recommande, surtout s'il y a un peu de Soleil. 
+
+Le dimanche, on a été visiter avec Elsa le [Feelgood Market](https://www.google.com/search?q=feelgood+market+eindhoven&oq=eindhoven+the+feel&aqs=chrome.1.69i57j0l3.3697j0j4&sourceid=chrome&ie=UTF-8), pendant que Roland et Alex faisaient une petite session auj skatepark. Encore une fois, il y a plein de shops d'artistes et artisans près d'Area 51, c'est vraiment sympa de se balader par là. On a conclu notre séjour avec un encas au Happiness Café dans le centre, c'est là où on a dévoré de délicieuses tartines avocat-humus (photo en haut de l'article). 
+
+![happiness-cafe](/media/the-happiness-cafe-eindhoven-1.jpg "Happiness Café dans le centre d'Eindhoven")
+
+Souvent quand on évoque Eindhoven, on pense à son aéroport et aux groupes industriels, donc on s'en fait l'image d'une ville grise et sans charme. C'est faux, c'est une ville très riche, avec un joli centre historique rempli de bars, et un quartier hipster en pleine effervescence, qui pousse doucement autour de son immense skatepark area 51.
