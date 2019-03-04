@@ -45,7 +45,9 @@ Pas très loin, toujours sur le Ring, il y a le Parlement autrichien, devant leq
 
 ![athena-parlement](/media/50500517_2221415704767132_3288330904321130496_n.jpg "Statue d'Athéna au Parlement autrichien")
 
-## 
+Autre adresse notable pas très loin du Ring : le [Charlie P's pub and dining](http://www.charlieps.at/), un pub étudiant où on peut manger de bons burgers, boire et danser jusqu'à tard.
+
+
 
 ## Le centre historique de Vienne
 
@@ -64,6 +66,22 @@ Belle cathédrale gothique ; on peut observer sur le toit de la partie Est l'emb
 En revanche, nous n'avons pas trouvé beaucoup de bons spots pour déjeuner dans le centre. On y a bien gouté les fameuses escalopes viennoises (_schnitzel_), mais on a été assez déçus. Mais il y a vraiment beaucoup de restaurants différents, donc je pense qu'on n'a juste pas eu de chance.
 
 En continuant vers le Nord on arrive au canal, un bras détourné du Danube qui traverse le centre, on y a pris un café au [Motto am Fluss](https://www.tripadvisor.fr/Restaurant_Review-g190454-d1852133-Reviews-Motto_am_Fluss-Vienna.html). D'ici, on peut prendre un metro pour rejoindre le Danube, le vrai, à seulement 2 stations, et s'il fait beau, se promener sur l'île Donauinsel. 
+
+## Le château de Schönbrunn
+
+![schönbrunn](/media/50418428_516289445444238_7803425857040547840_n.jpg "Schönbrunn")
+
+Les architectes de Schönbrunn avaient l'ambition de bâtir un château encore plus grand que celui de Versailles. Faute de ressources, les plans ont dû être revus, mais le monument n'en demeure pas moins splendide. 
+
+Schönbrunn est situé à quelques kilomètres au Sud-Est du centre de Vienne, et accessible par le métro en une petite demi-heure. Le domaine comporte d'immenses jardins à la française, des fontaines, statues, grandes allées, et le château en lui même. Ce-dernier fut la résidence de nombreuses stars de la dynastie des Habsbourg, parmi lesquelles :
+
+* Marie-Thérèse d'Autriche. Épouse de François III Étienne, qui fut élu empereur romain germanique en 1745 sous le nom de François Ier, elle est connue dans l'histoire comme l'impératrice Marie-Thérèse et, surnommée La Grande, elle est souvent considérée comme souveraine de facto du Saint-Empire qu'elle gouverna officieusement jusqu'à la mort de son mari puis en co-régence avec son fils jusqu'à sa propre mort. C'était un peu la big-boss de l'Europe.
+* François-Joseph Ier d'Autriche. Dernier grand empereur Austro-Hongrois, il a vécu et exercé le pouvoir à Schönbrunn toute sa vie. Il meurt en 1916, lorsque toute l'Europe part en sucette.
+* Élisabeth en Bavière, aka Sissi l'Impératrice. Une jolie fille sur laquelle François-Joseph Ier d'Autriche a craqué, et qu'il a ramené chez lui. Sissi supporte mal la vie à la cour, et préfère la Hongrie à l'Autriche. Elle est assez impopulaire, mais elle est très jolie et François est fou amoureux, donc bon elle est tolérée. Sissi meurt assassinée par un anarchiste italien en 1898, snif...
+
+![serres-de-Schönbrunn](/media/50507919_2287348804922864_7011352270394621952_n.jpg "Serres dans les jardins de Schönbrunn")
+
+Deux types de visites guidées de Schönbrunn, selon le nombre de salles que vous souhaitez parcourir. La formule light inclut les principales salles et suffit amplement pour s'imprégner des lieux, mais si vous avez du temps, le château est vraiment magnifique et mérite de s'y attarder.
 
 
 
