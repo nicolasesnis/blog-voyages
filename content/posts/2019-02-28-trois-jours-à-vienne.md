@@ -29,7 +29,7 @@ C'est sur le Ring, et non dans le centre, qu'on retrouve en fait la plupart des 
 
 ![museumsquartier](/media/49211291_532709337198483_8405607282989072384_n.jpg "Museumsquartier")
 
-_Le Museumsquartier, sur le Ring_
+_"Activité culturelle" au Museumsquartier, sur le Ring_
 
 C'est sur le Ring que se situe notamment l'Opéra. Plusieurs fois dans le mois, il est possible d'assister pour seulement 3 euros à une représentation au sein du célèbre Opéra de Vienne. Il faut faire un peu la queue et venir une ou deux heures avant, et vous devrez assister à la pièce debout, serré avec des dizaines d'autres touristes. Mais c'est un moyen abordable de visiter le bâtiment et de voir une oeuvre. On a réussi à obtenir des places pour le Crépuscule des Dieux de Wagner. Il est possible de partir à l'entracte (deux heures). 
 
@@ -49,8 +49,6 @@ Deux adresses notables pas très loin du Ring :
 
 * Le [Charlie P's pub and dining](http://www.charlieps.at/), un pub étudiant où on peut manger de bons burgers, boire et danser jusqu'à tard.
 * Le restaurant [Fromme Helene](https://www.frommehelene.at/) : bonne chair et bonne bière pour seulement quelques écus
-
-
 
 ## Le centre historique de Vienne
 
@@ -86,9 +84,7 @@ Schönbrunn est situé à quelques kilomètres au Sud-Est du centre de Vienne, e
 
 Deux types de visites guidées de Schönbrunn, selon le nombre de salles que vous souhaitez parcourir. Le petit parcours inclut les principales salles et suffit amplement pour s'imprégner des lieux, mais si vous avez du temps, le château est vraiment magnifique et mérite de s'y attarder.
 
-
-
-## Le Naschmarkt 
+## Le Naschmarkt
 
 Le Naschmarkt est un marché à 10 minutes à pied au Sud de l'Opéra, où on peut trouver déguster des plats typiques d'Europe centrale et faire quelques achats. Le restaurant Gasthaus "Zur Eisernen Zeit", est le plus bistrot du marché : très typique, personnel accueillant, on peut y goûter un excellent goulash et de bonnes stout ale pression. 
 
