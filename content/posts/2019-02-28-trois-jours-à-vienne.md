@@ -37,9 +37,13 @@ Pour vous requinquer à la sortie, allez découvrir de délicieuses bières loca
 
 ![bier-und-bierli](/media/50755921_489931831532900_6075382105213239296_n.jpg "Bier und Bierli, quartier de l'Opéra")
 
+_Mille et une bières au Bier und Bierli, mon pub préféré à Vienne_
+
 Plus au Nord se trouve l'Hôtel de Ville de Vienne. En hiver, une immense patinoire d'extérieur est installée sur le parvis, ainsi qu'un marché de Noël. 
 
 ![patinoire-de-vienne](/media/50299058_249609129263148_9150615990940205056_n.jpg "Patinoire de Vienne")
+
+_Immense patinoire devant l'Hôtel de Ville_
 
 Pas très loin, toujours sur le Ring, il y a le Parlement autrichien, devant lequel trône une impressionnante statue de la déesse grecque Athena. À ses pieds, 4 divinités symbolisant les 4 grands fleuves autrichiens. L'une d'entre elles, la rivière Vitava, figure sur la couverture de l'album Tempest de Bob Dylan.
 
@@ -52,15 +56,17 @@ Deux adresses notables pas très loin du Ring :
 
 ## Le centre historique de Vienne
 
-Depuis le Museumsquartier sur le Ring, il est possible de rejoindre le centre en traversant le Volksgarten, l'équivalent autrichien du jardin des Tuileries, attenant au Hofburg. Le Hofburg est le plus grand palais de Vienne, et a été la résidence de la plupart des dirigeants autrichiens (les Habsbourg notamment). Il regroupe de nombreux hauts lieux de Vienne, que nous n'avons pas pu tous visiter : la Bibliothèque Nationale Autrichienne, l'École d'Équitation Espagnole (célèbre pour ses [lipizzans](https://fr.wikipedia.org/wiki/Lipizzan)) et le musée Sissi. La promenade débouche sur la magnifique Michaelerplatz.
+Depuis le Museumsquartier sur le Ring, il est possible de rejoindre le centre en traversant le Volksgarten, l'équivalent autrichien du jardin des Tuileries, attenant au Hofburg. Le Hofburg est le plus grand palais de Vienne, et a été la résidence de la plupart des dirigeants autrichiens (les Habsbourg notamment). Il regroupe de nombreux hauts lieux de Vienne, que nous n'avons pas pu tous visiter : la Bibliothèque Nationale Autrichienne, l'École d'Équitation Espagnole (célèbre pour ses [lipizzans](https://fr.wikipedia.org/wiki/Lipizzan)) et le musée Sissi. La promenade débouche sur la magnifique Michaelerplatz :
 
 ![michaelerplatz](/media/50299079_584828378646595_8455753066279337984_n.jpg "Michaelerplatz")
 
 Michaelerplatz relie le Hofburg aux rues commerçantes et à l'hypercentre. Un bon itinéraire consiste à longer le Palais vers le Sud, en direction de l'Opéra. Vous passerez devant la Bibliothèque Nationale, une grande serre remplie de papillons (idéal pour se réchauffer un peu), et déboucherez sur le très prisé [Café Sacher](https://www.sacher.com/en/original-sacher-cake/sacher-cafe-en/cafe-sacher-wien-3/) (attention, il y a au moins 1 heure de queue aux périodes d'affluence...). 
 
-Depuis le café, il est possible de traverser tout le centre en une ligne droite jusqu'au Danube, en passant par la Cathédrale St. Etienne. 
+Depuis le café, il est possible de traverser tout le centre en une ligne droite jusqu'au Danube, en passant par la Cathédrale St. Etienne.
 
 ![st-etienne-cathedral](/media/50301891_2150910704968471_6611448453874581504_n.jpg "Cathédrale Saint Etienne")
+
+_La Cathédrale St. Etienne, dans le centre de Vienne_
 
 Belle cathédrale gothique ; on peut observer sur le toit de la partie Est l'emblème de l'empire Austro-Hongrois, un imposant aigle à deux têtes. On apprend que c'est ici que mister Mozart s'est marié. 
 
@@ -72,6 +78,8 @@ En continuant vers le Nord on arrive au canal, un bras détourné du Danube qui 
 
 ![schönbrunn](/media/50418428_516289445444238_7803425857040547840_n.jpg "Schönbrunn")
 
+_Elsa fait sa star dans les jardins du château_
+
 Les architectes de Schönbrunn avaient l'ambition de bâtir un château encore plus grand que celui de Versailles. Faute de ressources, les plans ont dû être revus, mais le monument n'en demeure pas moins splendide. 
 
 Schönbrunn est situé à quelques kilomètres au Sud-Est du centre de Vienne, et accessible par le métro en une petite demi-heure. Le domaine comporte d'immenses jardins à la française, des fontaines, statues, grandes allées, et le château en lui même. Ce-dernier fut la résidence de nombreuses stars de la dynastie des Habsbourg, parmi lesquelles :
@@ -82,7 +90,9 @@ Schönbrunn est situé à quelques kilomètres au Sud-Est du centre de Vienne, e
 
 ![serres-de-Schönbrunn](/media/50507919_2287348804922864_7011352270394621952_n.jpg "Serres dans les jardins de Schönbrunn")
 
-Deux types de visites guidées de Schönbrunn, selon le nombre de salles que vous souhaitez parcourir. Le petit parcours inclut les principales salles et suffit amplement pour s'imprégner des lieux, mais si vous avez du temps, le château est vraiment magnifique et mérite de s'y attarder.
+_Les grandes serres dans les jardins du château_
+
+Il y a deux types de visites guidées de Schönbrunn, selon le nombre de salles que vous souhaitez parcourir. Le petit parcours inclut les principales salles et suffit amplement pour s'imprégner des lieux, mais si vous avez du temps, le château est vraiment magnifique et mérite de s'y attarder.
 
 ## Le Naschmarkt
 
