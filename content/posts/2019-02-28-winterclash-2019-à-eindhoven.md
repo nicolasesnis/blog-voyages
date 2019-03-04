@@ -8,7 +8,7 @@ description: >-
   Deux jours à Eindhoven aux Pays-Bas pour assister au Winterclash 2019, le plus
   gros contest de roller aggressif en Europe, au sein de l'immense skatepark
   Area 51.
-category: skatepark
+category: Week-End
 tags:
   - skatepark
 country: Pays-Bas
