@@ -26,7 +26,7 @@ class SimpleMap extends Component {
               key={index}
               lat={marker.geometry.location.lat}
               lng={marker.geometry.location.lng}
-              text={marker.formatted_address}
+              // text={marker.formatted_address}
             />
           ))}
         </GoogleMapReact>

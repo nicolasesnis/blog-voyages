@@ -7,9 +7,10 @@ import Sidebar from '../components/Sidebar';
 import Page from '../components/Page';
 import SimpleMap from '../components/Map';
 
-class TagsListTemplate extends React.Component {
+class MapTemplate extends React.Component {
   constructor(props) {
     super(props);
+
     this.state = {
       markers: [],
       loading: true
@@ -28,7 +29,6 @@ class TagsListTemplate extends React.Component {
               this.setState({
                 markers: [...this.state.markers, response.results[0]]
               });
-              console.log(response);
             },
             (error) => {
               console.error(error);
@@ -40,18 +40,27 @@ class TagsListTemplate extends React.Component {
   }
 
   render() {
+    const countries = [];
     return (
-      <Layout title={`Pays - ${this.props.data.title}`} description={this.props.data.subtitle}>
+      <Layout
+        title={`Pays - ${this.props.data.site.siteMetadata.title}`}
+        description={this.props.data.site.siteMetadata.subtitle}
+      >
         <Sidebar />
         <Page title="Pays">
           <ul>
-            {this.props.data.allMarkdownRemark.edges.map((edge) => (
-              <li key={edge.node.country.country}>
-                <Link to={`/country/${kebabCase(edge.node.country.country)}/`}>
-                  {edge.node.country.country} ({edge.node.city.city.length})
-                </Link>
-              </li>
-            ))}
+            {this.props.data.allMarkdownRemark.edges.map((edge) => {
+              if (!countries.includes(edge.node.country.country)) {
+                countries.push(edge.node.country.country);
+                return (
+                  <li key={edge.node.country.country}>
+                    <Link to={`/country/${kebabCase(edge.node.country.country)}/`}>
+                      {edge.node.country.country} ({edge.node.city.city.length})
+                    </Link>
+                  </li>
+                );
+              }
+            })}
           </ul>
           {this.state.loading ? <div /> : <SimpleMap markers={this.state.markers} />}
         </Page>
@@ -83,4 +92,4 @@ export const query = graphql`
   }
 `;
 
-export default TagsListTemplate;
+export default MapTemplate;
