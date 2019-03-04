@@ -57,4 +57,4 @@ Le dimanche, on a été visiter avec Elsa le [Feelgood Market](https://www.googl
 
 ![happiness-cafe](/media/the-happiness-cafe-eindhoven-1.jpg "Happiness Café dans le centre d'Eindhoven")
 
-Souvent quand on évoque Eindhoven, on pense à son aéroport et aux groupes industriels, donc on s'en fait l'image d'une ville grise et sans charme. C'est faux, c'est une ville très riche, avec un joli centre historique rempli de bars, et un quartier hipster en pleine effervescence, qui pousse doucement autour de son immense skatepark area 51.
+Souvent quand on évoque Eindhoven, on pense à son aéroport et aux groupes industriels, donc on s'en fait l'image d'une ville grise et sans charme. C'est faux, c'est une ville très riche, avec un joli centre historique rempli de bars, et un quartier hipster en pleine effervescence, qui pousse doucement autour de son immense skatepark Area 51.
