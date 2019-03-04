@@ -45,7 +45,10 @@ Pas très loin, toujours sur le Ring, il y a le Parlement autrichien, devant leq
 
 ![athena-parlement](/media/50500517_2221415704767132_3288330904321130496_n.jpg "Statue d'Athéna au Parlement autrichien")
 
-Autre adresse notable pas très loin du Ring : le [Charlie P's pub and dining](http://www.charlieps.at/), un pub étudiant où on peut manger de bons burgers, boire et danser jusqu'à tard.
+Deux adresses notables pas très loin du Ring : 
+
+* Le [Charlie P's pub and dining](http://www.charlieps.at/), un pub étudiant où on peut manger de bons burgers, boire et danser jusqu'à tard.
+* Le restaurant [Fromme Helene](https://www.frommehelene.at/) : bonne chair et bonne bière pour seulement quelques écus
 
 
 
@@ -81,44 +84,12 @@ Schönbrunn est situé à quelques kilomètres au Sud-Est du centre de Vienne, e
 
 ![serres-de-Schönbrunn](/media/50507919_2287348804922864_7011352270394621952_n.jpg "Serres dans les jardins de Schönbrunn")
 
-Deux types de visites guidées de Schönbrunn, selon le nombre de salles que vous souhaitez parcourir. La formule light inclut les principales salles et suffit amplement pour s'imprégner des lieux, mais si vous avez du temps, le château est vraiment magnifique et mérite de s'y attarder.
+Deux types de visites guidées de Schönbrunn, selon le nombre de salles que vous souhaitez parcourir. Le petit parcours inclut les principales salles et suffit amplement pour s'imprégner des lieux, mais si vous avez du temps, le château est vraiment magnifique et mérite de s'y attarder.
 
 
 
-Logement : Josefstadt
+## Le Naschmarkt 
 
-\- Bar : Grand Cocktail Bar
+Le Naschmarkt est un marché à 10 minutes à pied au Sud de l'Opéra, où on peut trouver déguster des plats typiques d'Europe centrale et faire quelques achats. Le restaurant Gasthaus "Zur Eisernen Zeit", est le plus bistrot du marché : très typique, personnel accueillant, on peut y goûter un excellent goulash et de bonnes stout ale pression. 
 
-\- Bar : Charlie P's Pub & Dining
-
-\- Restaurant : Fromme Helene
-
-Centre historique Su
-
-\- Danube : Motto am Fluss, café
-
-\- Michaelerplatz
-
-\- Promenade dans le Volksgarten
-
-\- Bibliothèque nationale Autrichienne
-
-\- Sissy 
-
-\- École d'équitation espagnole
-
-\- Cathédrale Saint Etienne
-
-Le Ring : 
-
-\- Parlement
-
-\- Le quartier des musées
-
-\- Opéra ; Bier & Bierli
-
-Palais de Schönbrunn
-
-Naschmarkt : 
-
-\- Restaurant : Gasthaus "Zur Eisernen Zeit"
+Nous n'avons pas eu le temps de passer au Palais du Belvédère... Ce sera pour une autre fois.
