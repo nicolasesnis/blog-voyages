@@ -5,10 +5,7 @@ slug: boisleduc
 draft: false
 date: '2019-02-27T13:58:47.715Z'
 description: 'Un week-end comme un autre chez les Cornichons Voyageurs : sur la route...'
-country: 'Netherlands'
-category: Italie
-city:
-  - Bois-Le-Duc
+category: Week-End
 tags:
   - trip
   - weekend
@@ -19,6 +16,9 @@ tags:
   - chill
   - posey
   - tavu
+country: Pays-Bas
+city:
+  - Bois-Le-Duc
 ---
 
 ![](/media/52692466_2290029051040545_7488926958395326464_n.jpg)
