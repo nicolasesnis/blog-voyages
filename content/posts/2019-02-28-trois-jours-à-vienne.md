@@ -96,6 +96,6 @@ Il y a deux types de visites guidées de Schönbrunn, selon le nombre de salles 
 
 ## Le Naschmarkt
 
-Le Naschmarkt est un marché à 10 minutes à pied au Sud de l'Opéra, où on peut  déguster des plats typiques d'Europe centrale et faire quelques achats. Le restaurant Gasthaus "Zur Eisernen Zeit", est un bistrot sympa en plein coeur du marché : très typique, personnel accueillant, on peut y goûter un excellent goulash et de bonnes stout ale pression. 
+Le Naschmarkt est un marché à 10 minutes à pied au Sud de l'Opéra, où on peut  déguster des plats typiques d'Europe centrale et faire quelques achats. Le restaurant Gasthaus "Zur Eisernen Zeit", est un bistrot sympa en plein coeur du marché : très typique, personnel accueillant, on peut y goûter un excellent goulash et de bonnes stout ale en pression. 
 
 Nous n'avons pas eu le temps de passer au Palais du Belvédère... Ce sera pour une autre fois.
