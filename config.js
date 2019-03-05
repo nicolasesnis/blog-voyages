@@ -1,11 +1,11 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://travellinpickles.com',
   title: 'The Travellin\' Pickles',
   subtitle: 'Tant de fromages à découvrir. Si peu de temps',
   copyright: '© On n\'a aucun droits réservés',
-  disqusShortname: '',
+  disqusShortname: 'example',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   menu: [
@@ -29,7 +29,7 @@ module.exports = {
   author: {
     name: 'The Travellin\' Pickles',
     photo: '/pickle.png',
-    bio: 'Tant de fromages à découvrir. Si peu de temps.',
+    bio: 'Deux cornichons qui se promènent sur les routes.',
     contacts: {
       email: '#',
       telegram: '#',

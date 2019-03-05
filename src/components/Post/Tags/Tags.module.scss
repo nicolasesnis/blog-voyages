@@ -2,7 +2,7 @@
 @import '../../../assets/scss/mixins';
 
 .tags {
-  @include margin-bottom(1);
+  @include margin-bottom(1.5);
 
   &__list {
     list-style: none;
