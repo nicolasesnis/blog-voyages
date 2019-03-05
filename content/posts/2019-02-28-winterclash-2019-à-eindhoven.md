@@ -19,7 +19,7 @@ city:
 
 Départ vendredi 10h en Kangoo depuis Paris avec Ali et Roland, deux potes fans de roller. Y'avait également Rash qui devait se pointer, mais on apprendra 2 heures plus tard, quand on sera déjà loin sur la route, qu'il s'est pas réveillé... Elsa nous rejoint directement à Eindhoven en train depuis Maastricht. 
 
-Le [Winterclash](https://www.winterclash.com/the-event/history/) c'est quoi ? Le plus gros contest de roller aggressif en Europe ! Depuis 2005, les pros européens viennent montrer leurs meilleurs tricks et tenter de décrocher le podium ; et depuis 2011, l'évènement a lieu tous les ans à Area 51, le skatepark d'Eindhoven, plus gros skatepark européen. 
+Le [Winterclash](https://www.winterclash.com/the-event/history/) c'est quoi ? Le plus gros contest de roller aggressif en Europe ! Depuis 2005, les pros arrivent de toute la planète (Europe, mais aussi USA, Japon...) pour montrer leurs meilleurs tricks ; et depuis 2011, l'évènement a lieu tous les ans à Area 51, le skatepark d'Eindhoven, plus gros skatepark européen. 
 
 ![area-51](/media/51883589_2245483075702955_7438028658180096000_n.jpg "Échauffement des riders avant la compétition")
 
