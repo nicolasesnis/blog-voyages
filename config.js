@@ -5,7 +5,7 @@ module.exports = {
   title: 'The Travellin\' Pickles',
   subtitle: 'Tant de fromages à découvrir. Si peu de temps',
   copyright: '© On n\'a aucun droits réservés',
-  disqusShortname: 'example',
+  disqusShortname: 'travellinpickles',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   menu: [

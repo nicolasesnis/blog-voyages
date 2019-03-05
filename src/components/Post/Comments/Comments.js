@@ -1,6 +1,7 @@
 import React from 'react';
 import { graphql, StaticQuery } from 'gatsby';
 import ReactDisqusComments from 'react-disqus-comments';
+import hideDisqusStyle from './hide-disqus-footer.css';
 
 export const PureComments = ({ data, postTitle, postSlug }) => {
   const { url, disqusShortname } = data.site.siteMetadata;
@@ -10,15 +11,16 @@ export const PureComments = ({ data, postTitle, postSlug }) => {
   }
 
   return (
-    <div>
+    <div style={hideDisqusStyle}>
       <ReactDisqusComments
         shortname={disqusShortname}
         identifier={postTitle}
         title={postTitle}
         url={url + postSlug}
-        onNewComment={function handleNewComment(comment) {
-          console.log(comment.text);
-        }}
+        // onNewComment={function handleNewComment(comment) {
+        //   console.log(comment.text);
+        // }}
+        // category_id="123456"
       />
     </div>
   );
