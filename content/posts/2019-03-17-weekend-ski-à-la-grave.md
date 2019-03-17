@@ -2,7 +2,7 @@
 template: post
 title: 'La Grave : 2150 mètres de différence !'
 slug: weekend-ski-a-la-grave
-draft: true
+draft: false
 date: 2019-03-16T18:48:01.926Z
 description: >-
   Merveilleux week-end de découverte de La Grave et des Vallons de la Meije avec
