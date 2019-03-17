@@ -14,7 +14,7 @@ country: France
 city:
   - La Grave
 ---
-![](/media/img_e0093.jpg)
+![elsa-la-pro](/media/img_e0093.jpg "Elsa le petit cabri au milieu des vallons")
 
 La station de ski de La Grave est perchée à 1135 mètres aux abords du massif de la Meije, le 2ème plus haut sommet du parc national des Écrins. Son immense domaine skiable est entièrement hors piste, formé de nombreux glaciers, vallons et forêts. 
 
@@ -24,7 +24,11 @@ Nous sommes partis de la Gare de Lyon à 16h, avons loué une voiture à Grenobl
 
 Nous avons retrouvé Sébastien à 8 heures samedi au magasin de location de ski Snow Legend. Nous nous sommes équipés de skis hors pistes, DVA et baudrier, et avons récupéré les forfaits que Sébastien avait été acheter plus tôt. 
 
+![]()
+
 Il n'y a qu'une seule remontée mécanique à La Grave : le télécabine, partant du village, et amenant jusqu'à 3300 mètres en deux étapes. C'est un vieux télécabine, au très faible débit : pas de débrayage, seulement 6 x 5 passagers par tournée, assez lent. Il faut compter une bonne vingtaine de minutes pour atteindre le sommet. 
+
+
 
 Nous avons eu la chance d'avoir une météo exceptionnelle et une visibilité parfaite les deux jours. Revers de la médaille, nous n'étions pas les seuls à avoir eu la bonne idée de skier la Meije : il y avait pas mal de monde, et on a du faire un peu de queue le matin au télécabine. 
 
