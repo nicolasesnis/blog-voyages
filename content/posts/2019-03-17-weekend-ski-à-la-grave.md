@@ -5,7 +5,7 @@ slug: weekend-ski-a-la-grave
 draft: false
 date: 2019-03-16T18:48:01.926Z
 description: Merveilleux week-end de découverte de La Grave et des Vallons de la Meije
-category: weekend
+category: Week-End
 tags:
   - ski
 country: France
