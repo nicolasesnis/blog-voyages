@@ -11,6 +11,7 @@ tags:
 country: France
 city:
   - La Grave
+  - La Meije
 ---
 ![elsa-la-pro](/media/img_e0093.jpg "Elsa le petit cabri au milieu des vallons")
 
@@ -18,7 +19,7 @@ La petite station de ski de La Grave est perchée à 1135 mètres aux abords du 
 
 Il est très dangereux de partir sans guide en hors pistes quand on ne connaît pas. C'est d'autant plus vrai à La Grave que de nombreux hors-pistes sont sur des glaciers ou dans des zones à fort risque d'avalanches. Sébastien de l'agence [Rock Ice Snow](https://www.rock-ice-snow.com/) a donc été notre guide pour le week-end. 
 
-Nous sommes partis de la Gare de Lyon à 16h, avons loué une voiture à Grenoble, et sommes arrivés vers 22 heures à notre Airbnb, très bien situé à deux minutes du télécabine. On a commencé notre weekend sportif par une bonne raclette arrosée d'un magnum de rouge et de bon rhum.
+Nous sommes partis de la Gare de Lyon à 16h, avons loué une voiture à Grenoble, et sommes arrivés vers 22 heures à notre Airbnb, très bien situé à deux minutes du télécabine. On a commencé notre weekend sportif par une bonne raclette arrosée d'un magnum de rouge et de bon rhum...
 
 ![elsa-hors-piste](/media/img_e0012.jpg "Elsa bien équipée")
 
@@ -44,7 +45,7 @@ Tout en haut, la vue est sublime, et si la visibilité est bonne, on voit bien l
 
 ![massif-des-ecrins](/media/img_e0042.jpg "Le Massif des Ecrins")
 
-La neige était bonne globalement, même si on aurait quand même pu avoir un peu plus de puff. 
+La neige était bonne globalement, même si on aurait quand même pu avoir un peu plus de puff. Enfin on ne va pas se plaindre hein...
 
 ![vue-sur-la-meije](/media/img_e0096.jpg "Vue sur la Meihe")
 
