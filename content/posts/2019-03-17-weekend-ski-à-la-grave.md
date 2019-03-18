@@ -37,7 +37,7 @@ Le premier tronçon, P1, est à 1800 mètres. En mars, pour le retour en fin de 
 
 ![intermediaire-P1](/media/img_e0086.jpg "Première étape, P1")
 
-En haut, on peut continuer l'ascension jusqu'à 3600 mètres ! Il faut pour cela atteindre un téléski situé à environ 500 mètres de l'arrivée du télécabine... Comme on se situe sur des glaciers, il est très compliqué de construire des remontées mécaniques. Heureusement, il y a une dameuse qui fait en boucle la liaison entre les deux pour remorquer les skieurs !
+En haut, on peut continuer l'ascension jusqu'à 3600 mètres ! Il faut pour cela atteindre un téléski situé à environ 500 mètres de l'arrivée du télécabine... Comme on se situe sur des glaciers, il est compliqué de construire des liaisons mécaniques. Heureusement, il y a une dameuse qui fait en boucle la liaison entre les deux pour remorquer les skieurs !
 
 ![dameuse-tire-fesse](/media/img_e0038.jpg "Un tire fesses un peu spécial")
 
@@ -62,5 +62,9 @@ Sébastien nous a fait traverser les vallons par différents itinéraires, et le
 ![interieur-du-glacier](/media/img_e0101.jpg "Intérieur du glacier")
 
 La Grave n'est pas une station familiale, comme le sont les Deux Alpes ou l'Alpe d'Huez juste à côté : pas d'ESF, pas de bolwing, pas de piscine chauffée... Mais il y a de très bons restaurants et des bars très sympathiques. On a dîné à [l'Edelweiss](http://www.hotel-edelweiss.com/), un hôtel qui fait également restaurant et bar, dont le patron est un ex-financier américain, qui maintenant a réuni dans son restaurant deux choses qu'il aimait: le bon vin et la blues music. 
+
+
+
+Pour finir, Elsa qui prend la pose de la victoire à l'entrée du glacier :
 
 ![elsa-pose-glacier](/media/img_e0099.jpg "La star du glacier")
