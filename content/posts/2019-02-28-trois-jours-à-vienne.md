@@ -4,7 +4,9 @@ title: Quatre jours à Vienne
 slug: quatre-jours-a-vienne
 draft: false
 date: '2019-01-19T15:09:00.000Z'
-description: Quatre jours pour visiter la ville de Mozart
+description: >-
+  Quatre jours pour découvrir la ville de Mozart : le château de Schönbrunn,
+  l'Opéra, le Danube et les schnitzel.
 category: Week-End
 tags:
   - biere
