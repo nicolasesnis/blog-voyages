@@ -4,7 +4,7 @@ title: Quatre jours à Vienne
 slug: quatre-jours-a-vienne
 draft: false
 date: '2019-01-19T15:09:00.000Z'
-description: 'Quatre jours pour visiter la ville de Mozart : le'
+description: Quatre jours pour visiter la ville de Mozart
 category: Week-End
 tags:
   - biere
