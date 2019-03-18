@@ -4,9 +4,7 @@ title: 'La Grave : 2150 mètres de différence !'
 slug: weekend-ski-a-la-grave
 draft: false
 date: 2019-03-16T18:48:01.926Z
-description: >-
-  Merveilleux week-end de découverte de La Grave et des Vallons de la Meije,
-  avec un guide bien sûr
+description: Merveilleux week-end de découverte de La Grave et des Vallons de la Meije
 category: weekend
 tags:
   - ski
@@ -22,6 +20,8 @@ Il est très dangereux de partir sans guide en hors pistes quand on ne connaît 
 
 Nous sommes partis de la Gare de Lyon à 16h, avons loué une voiture à Grenoble, et sommes arrivés vers 22 heures à notre Airbnb, très bien situé à deux minutes du télécabine. On a commencé notre weekend sportif par une bonne raclette arrosée d'un magnum de rouge et de bon rhum.
 
+![elsa-hors-piste](/media/img_e0012.jpg "Elsa bien équipée")
+
 Nous avons retrouvé Sébastien à 8 heures samedi au magasin de location de ski Snow Legend. Nous nous sommes équipés de skis hors pistes, DVA et baudrier, et avons récupéré les forfaits que Sébastien avait été acheter plus tôt. 
 
 ![telepherique-de-la-grave](/media/img_0017.jpg "Le téléphérique de La Grave")
@@ -31,6 +31,10 @@ Il n'y a qu'une seule remontée mécanique à La Grave : le télécabine, partan
 ![œufs-colorés ](/media/img_0050.jpg "Le téléphérique de La Grave (bis)")
 
 Nous avons eu la chance d'avoir une météo exceptionnelle et une visibilité parfaite les deux jours. Revers de la médaille, nous n'étions pas les seuls à avoir eu la bonne idée de skier la Meije : il y avait pas mal de monde, et on a du faire un peu de queue le matin au télécabine. 
+
+Le premier tronçon, P1, est à 1800 mètres. En mars, pour le retour en fin de journée, il vaut mieux l'emprunter plutôt que de descendre tout en bas, car la neige devient un peu moins bonne et il faut prendre un escalier boueux pour remonter jusqu'au village.
+
+![intermediaire-P1](/media/img_e0086.jpg "Première étape, P1")
 
 En haut, on peut continuer l'ascension jusqu'à 3600 mètres ! Il faut pour cela atteindre un téléski situé à environ 500 mètres de l'arrivée du télécabine... Comme on se situe sur des glaciers, il est très compliqué de construire des remontées mécaniques. Heureusement, il y a une dameuse qui fait en boucle la liaison entre les deux pour remorquer les skieurs !
 
@@ -56,4 +60,6 @@ Sébastien nous a fait traverser les vallons par différents itinéraires, et le
 
 ![interieur-du-glacier](/media/img_e0101.jpg "Intérieur du glacier")
 
-La Grave n'est pas une station familiale, comme le sont les Deux Alpes ou l'Alpe d'Huez juste à côté : pas d'ESF, pas de bolwing, pas de piscine chauffée... Mais il y a de très bons restaurants et des bars très sympathiques.
+La Grave n'est pas une station familiale, comme le sont les Deux Alpes ou l'Alpe d'Huez juste à côté : pas d'ESF, pas de bolwing, pas de piscine chauffée... Mais il y a de très bons restaurants et des bars très sympathiques. On a dîné à [l'Edelweiss](http://www.hotel-edelweiss.com/), un hôtel qui fait également restaurant et bar, dont le patron est un ex-financier américain, qui maintenant a réuni dans son restaurant deux choses qu'il aimait: le bon vin et la blues music. 
+
+![elsa-pose-glacier](/media/img_e0099.jpg "La star du glacier")
