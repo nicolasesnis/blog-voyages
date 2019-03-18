@@ -61,9 +61,7 @@ Sébastien nous a fait traverser les vallons par différents itinéraires, et le
 
 ![interieur-du-glacier](/media/img_e0101.jpg "Intérieur du glacier")
 
-La Grave n'est pas une station familiale, comme le sont les Deux Alpes ou l'Alpe d'Huez juste à côté : pas d'ESF, pas de bolwing, pas de piscine chauffée... Mais il y a de très bons restaurants et des bars très sympathiques. On a dîné à [l'Edelweiss](http://www.hotel-edelweiss.com/), un hôtel qui fait également restaurant et bar, dont le patron est un ex-financier américain, qui maintenant a réuni dans son restaurant deux choses qu'il aimait: le bon vin et la blues music. 
-
-
+La Grave n'est pas une station familiale, comme le sont les Deux Alpes ou l'Alpe d'Huez juste à côté : pas d'ESF, pas de bolwing, pas de piscine chauffée... Mais il y a de très bons restaurants et des bars très sympathiques. On a dîné à [l'Edelweiss](http://www.hotel-edelweiss.com/), un hôtel qui fait également restaurant et bar, dont le patron est un ex-financier américain, qui maintenant a réuni dans son restaurant deux choses qu'il aimait: le bon vin et le blues music. 
 
 Pour finir, Elsa qui prend la pose de la victoire à l'entrée du glacier :
 
