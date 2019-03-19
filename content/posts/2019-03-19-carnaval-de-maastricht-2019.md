@@ -2,7 +2,7 @@
 template: post
 title: Carnaval de Maastricht 2019
 slug: carnaval-maastricht-2019
-draft: true
+draft: false
 date: 2019-03-05T10:20:59.482Z
 description: >-
   Récit de cinq jours d'immersions dans les traditions néerlandaises les plus
@@ -16,9 +16,15 @@ country: Pays-Bas
 city:
   - Maastricht
 ---
-Pour moi qui ai grandi à Paris, le carnaval, ça se résume à quelques gamins déguisés à l'école : des garçons en Batman et des filles en Cendrillon. Je pense qu'un bon article se doit de commencer par un cliché sexiste ou une blague raciste, histoire d'inciter les gens à commenter et faire le buzz. Pour moi le carnaval, c'est se moquer de ce petit garçon en CE2 qui s'est trompé de jour et est le seul déguisé de toute l'école, ahah le bolosse. Enfin, quelques moqueries à l'école n'ont jamais blessé personne, et puis ça forge le caractère !! BREF pour moi le carnaval c'est un truc qui dure 1 jour, qui est tout juste toléré dans les écoles et dont les dégâts collatéraux se limitent à trois confettis dans les cheveux et quatre heures de colle pour avoir assorti son déguisement d'un pistolet à billes non homologué. 
+![comsi-comsa](/media/img_2597.jpg "Un char à weed")
 
-Eh ben à Maastricht, le carnaval c'est pas du tout comme ça que ça marche. Déjà, ça dure pas 1 jour mais** 4 mois**. Le carnaval, pour les Néerlandais, c'est une saison entière. 
+Pour moi qui ai grandi à Paris, le carnaval, ça se résume à quelques gamins déguisés à l'école : des garçons en Batman et des filles en Cendrillon. Je pense qu'un bon article se doit de commencer par un cliché sexiste ou une blague raciste, histoire d'inciter les gens à commenter et faire le buzz. Pour moi le carnaval, c'est se moquer de ce petit garçon en CE2 qui s'est trompé de jour et est le seul déguisé de toute l'école. Ahah le bolosse. Enfin, un peu d'humiliation et de victimisation à l'école n'a jamais tué personne, et puis ça forge le caractère. Bref pour moi le carnaval c'est un truc qui dure 1 jour, qui est tout juste toléré dans les écoles et dont les dégâts collatéraux se limitent à trois confettis dans les cheveux et quatre heures de colle pour avoir assorti son déguisement d'un pistolet à billes non homologué. 
+
+Eh ben à Maastricht, le carnaval c'est pas du tout comme ça que ça marche. Déjà, ça dure pas 1 jour mais** 4 mois**. Le carnaval, pour les Néerlandais, c'est une saison entière. Ensuite, c'est pas pour les enfants. Du moins en théorie : c'est une beuverie colossale, à l'échelle d'une ville entière, mais on voit quand même pas mal de gamins déguisés (sobres) avec leurs parents (ivres). 
+
+![elsa-carnaval-woman](/media/img_2607.jpg "La teuf au Carnaval")
+
+
 
 # Les préparatifs
 
@@ -30,13 +36,19 @@ De nombreux comités vont œuvrer tout l’hiver pour préparer l'apogée du Car
 
 La véritable fête commence en février, quelques jours avant le mercredi des Cendres (marquant le début de Carême). Certains commencent à faire la fête bien deux semaines avant. Je suis arrivé le samedi, car il paraît que c'est à ce moment là que la fête commence.
 
+![char-de-carnaval](/media/img_2591.jpg "Char au premier sens du terme")
+
 ## Le samedi
 
-Le samedi, le Stadsprins défile de la gare jusqu’à la place du marché en compagnie des comités (et en musique !). Sur la place du marché se situe la Mairie, où le maire remet les clefs au Prince lors d’une cérémonie. Les politiques locaux et nationaux y assistent ! 
+Le samedi, le Stadsprins défile de la gare jusqu’à la place du marché en compagnie des comités (et en fanfare !). Sur la place du marché se situe la Mairie, où le maire remet les clefs au Prince lors d’une cérémonie. Les politiques locaux et nationaux y assistent ! 
+
+![stadsprins ](/media/img_2638.jpg "Le Stadsprins")
 
 La Mooswief (la ménagère / marchande de légumes), incarne l'esprit du carnaval, et a sa statue en pierre sur la place du marché. Le samedi, cette statue est recouverte de carottes, choux, et d'autres légumes. Maastricht, ville symbole de l’union européenne, honore et suit, au moins pour le temps du Carnaval, une ménagère, avec son panier de carottes et de poireaux.
 
 **Tout le monde il est déguisé**. Si tu n'es pas déguisé, on te regarde comme un alien. On était un groupe d'une dizaine de personnes, et comme on n'arrivait pas trop à se décider, on est partis sur un déguisement assez banal aux couleurs du Carnaval. On était clairement des petits joueurs par rapport aux locaux.
+
+![vieux-deguise](/media/img_2637.jpg "Nice costume !")
 
 **Tout le monde il est bourré**. Un déguisement malin, c'est un déguisement qui incorpore une charrette, un petit véhicule, ou toute autre chose pouvant servir de minibar à roulettes. La bière coule à flot, partout. 
 
@@ -46,36 +58,26 @@ La Mooswief (la ménagère / marchande de légumes), incarne l'esprit du carnava
 
 ## Le dimanche
 
-Le dimanche matin, à 11h11 encore, des coups de feu sont tirés par le Momuskanon (un petit canon datant du XIXe siècle), et une Mooswief en papier mâché est hissée en haut d’un mât sur la place du Vrijthof. L’après-midi a lieu la Grande Parade de Carnaval.
+Le dimanche matin, à 11h11 encore, des coups de feu sont tirés par le Momuskanon (un petit canon datant du XIXe siècle), et une Mooswief en papier mâché est hissée en haut d’un mât sur la place du Vrijthof. 
+
+L’après-midi a lieu la Grande Parade de Carnaval.
+
+![grande-parade](/media/img_2552.jpg "Grande Parade")
 
 ## Le lundi
 
-Le lendemain a lieu la parade des familles. Contrairement à la très soft version française, ici, le carnaval n’est pas une fête pour les enfants. La parade du lundi leur accorde une place plus importante, mais le reste du temps, c’est la débauche totale.
+Le lendemain a lieu la parade des familles. Contrairement à la très soft version française, ici, le carnaval n’est pas une fête pour les enfants. La parade du lundi leur accorde une place plus importante, mais je pense que c'est juste pour la forme : le reste du temps, c’est la débauche totale.
+
+Ces jours ne sont pas fériés (comme aucun jour de Carnaval), mais de nombreux néerlandais prennent leur journée pour festoyer.
 
 ## Le mardi
 
-Enfin, le dernier jour, le Mardi Gras donc, alors que la parade se poursuit, a lieu le Zaate Hermeniekeconcours, qui est un concours de musique de Carnaval.  C'est l'occasion de remettre à la sauce fanfare Despacito, Waka Waka et Call Me, miam. 
+Enfin, le dernier jour, le Mardi Gras donc, alors que la parade se poursuit, a lieu le Zaate Hermeniekeconcours, qui est un concours de musique de Carnaval.  C'est l'occasion de remettre à la sauce fanfare les Despacito, Waka Waka, Macarena et autres pépites. 
 
+![zaate-hermeniekeconcours](/media/img_2629.jpg "Le Zaate Hermeniekeconcours")
 
+Le mardi à minuit, une courte cérémonie où la Mooswief est descendue de son mât marque la fin des réjouissances… pour ceux qui ont eu l’endurance d’aller jusque là. Et on voit des gens **pleurer**.
 
+C'était bien chouette, et je me dis qu'à Paris on est quand même bien mauvais pour ce genre de petites fêtes.
 
-
-
-
-En dehors de ces événements qui jalonnent les trois jours, les rues fourmillent de fêtards jusqu’à tard dans la nuit.
-
-
-
-Le mardi à minuit, une courte cérémonie où la Mooswief est descendue de son mât marque la fin des réjouissances… pour ceux qui ont eu l’endurance d’aller jusque là !
-
-
-
-
-
-Vendredi, 17h. En sortant du travail, tu croises un léopard. Suivi de Monsieur de Vicomte et sa vache violette. Il serait de bon ton de prendre quelques jours de congé… pour fêter Carnaval !
-
-L’ouverture de Carnaval
-
-Elle a lieu le 11 novembre. À 11h11, très précisément. Ce jour n’est pas férié là-bas (comme aucun jour de Carnaval), mais de nombreux néerlandais prennent leur journée pour festoyer (uniquement dans le sud des Pays-Bas, car le Carnaval est une fête de tradition chrétienne).
-
-Le Carnaval à Maastricht est de tradition rhénane, mais si le calendrier est resté le même, et les couleurs sont bien vert, jaune et rouge, en revanche dans les costumes on voit apparaître de tout, avec parfois des costumes typiquement vénitiens ou des groupes de samba.
+![parade-carnavam](/media/img_2626.jpg "Parade dans les rues de Maas")
