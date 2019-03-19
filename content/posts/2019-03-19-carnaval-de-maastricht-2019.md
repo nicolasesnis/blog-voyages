@@ -18,39 +18,35 @@ city:
 ---
 Pour moi qui ai grandi à Paris, le carnaval, ça se résume à quelques gamins déguisés à l'école : des garçons en Batman et des filles en Cendrillon. Je pense qu'un bon article se doit de commencer par un cliché sexiste ou une blague raciste, histoire d'inciter les gens à commenter et faire le buzz. Pour moi le carnaval, c'est se moquer de ce petit garçon en CE2 qui s'est trompé de jour et est le seul déguisé de toute l'école, ahah le bolosse. Enfin, quelques moqueries à l'école n'ont jamais blessé personne, et puis ça forge le caractère !! BREF pour moi le carnaval c'est un truc qui dure 1 jour, qui est tout juste toléré dans les écoles et dont les dégâts collatéraux se limitent à trois confettis dans les cheveux et quatre heures de colle pour avoir assorti son déguisement d'un pistolet à billes non homologué. 
 
-Eh ben à Maastricht, le carnaval c'est pas du tout comme ça que ça marche. Déjà, ça dure pas 1 jour mais** 4 mois et demi**. 
+Eh ben à Maastricht, le carnaval c'est pas du tout comme ça que ça marche. Déjà, ça dure pas 1 jour mais** 4 mois**. Le carnaval, pour les Néerlandais, c'est une saison entière. 
+
+## Les préparatifs
+
+L'ouverture de la saison Carnaval a lieu le 11 novembre. À 11h11, très précisément. Le 11 novembre donne lieu à une grosse fête et à des concerts sur le Vrijthof (il y a deux places importantes à Maastricht : la place du marché, Markt, et le Vrijthof où ont lieu toutes les festivités). Tout le monde se déguise pour marquer le coup. C'est déjà 100 fois plus la fête que tous les carnavals de toute ma vie combinés...et ce n'est que le début des hostilités. 
+
+De nombreux comités vont œuvrer tout l’hiver pour préparer l'apogée du Carnaval, qui dure trois jours. Un comité de Carnaval comporte 11 fous (le « conseil des 11 ») qui élisent un prince. Ces comités sont bien évidemment plus larges, et peuvent correspondre à tout un quartier. Si chaque comité a ainsi son prince, un prince est élu pour la ville entière : le Stadsprins (Prince de la Ville), dont l’identité est révélée 4 semaines avant les trois jours d'orgie.
+
+## Le « vrai » Carnaval
+
+La véritable fête commence en février, quelques jours avant le mercredi des Cendres (marquant le début de Carême). Certains commencent à faire la fête bien deux semaines avant. Mais on va raisonnablement rester sur 6 jours, ce qui nous mène au jeudi précédent le mercredi des Cendres.
+
+Je suis arrivé le samedi, car il paraît que c'est à ce moment là que la fête commence.
+
+
+
+
 
 
 
 Vendredi, 17h. En sortant du travail, tu croises un léopard. Suivi de Monsieur de Vicomte et sa vache violette. Il serait de bon ton de prendre quelques jours de congé… pour fêter Carnaval !
 
-
-
-Le Carnaval, à Maastricht, c’est un événement. Un événement qui court sur trois jours, ou plutôt dont l’apogée dure trois jours. Car en réalité, la saison de Carnaval commence bien plus tôt.
-
-
-
 L’ouverture de Carnaval
 
 Elle a lieu le 11 novembre. À 11h11, très précisément. Ce jour n’est pas férié là-bas (comme aucun jour de Carnaval), mais de nombreux néerlandais prennent leur journée pour festoyer (uniquement dans le sud des Pays-Bas, car le Carnaval est une fête de tradition chrétienne).
 
-
-
-Si le 11 novembre donne lieu à une grosse fête et à des concerts sur le Vrijthof (il y a deux places importantes à Maastricht : la place du marché, et le Vrijthof où ont lieu toutes les festivités) et que tout le monde se déguise pour marquer le coup, il ne s’agit en réalité que du début des préparatifs.
-
-
-
-De nombreux comités vont œuvrer tout l’hiver pour préparer Carnaval. Un comité de Carnaval comporte 11 fous (le « conseil des 11 ») qui élisent un prince. Ces comités sont bien évidemment plus larges, et peuvent correspondre à tout un quartier. Si chaque comité a ainsi son prince, un prince est élu pour la ville entière : le Stadsprins (Prince de la Ville), dont l’identité est révélée 4 semaines avant le Carnaval.
-
-
-
 Le Carnaval à Maastricht est de tradition rhénane, mais si le calendrier est resté le même, et les couleurs sont bien vert, jaune et rouge, en revanche dans les costumes on voit apparaître de tout, avec parfois des costumes typiquement vénitiens ou des groupes de samba.
 
 
-
-Le « vrai » Carnaval
-
-La véritable fête commence en février, quelques jours avant le mercredi des Cendres (marquant le début de Carême… cela dit, bien que les deux événements soient associés, ceux qui fêtent le plus Carnaval ne sont pas ceux qui fêtent le plus Carême… Comme c’est surprenant !). Je dis « quelques » en restant volontairement vague, car certains commencent à faire la fête bien deux semaines avant. Mais on va raisonnablement rester sur 6 jours, ce qui nous mène au jeudi précédent le mercredi des Cendres.
 
 
 
