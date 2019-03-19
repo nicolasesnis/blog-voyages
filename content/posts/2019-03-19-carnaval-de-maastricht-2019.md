@@ -3,7 +3,7 @@ template: post
 title: Carnaval de Maastricht 2019
 slug: carnaval-maastricht-2019
 draft: false
-date: 2019-03-05T10:20:59.482Z
+date: '2019-03-05'
 description: >-
   Récit de cinq jours d'immersions dans les traditions néerlandaises les plus
   folles : fanfare endiablée, déguisements improbables et alcoolisation massive.
@@ -38,7 +38,8 @@ La véritable fête commence en février, quelques jours avant le mercredi des C
 
 ## Le samedi
 
-Le samedi, le Stadsprins défile de la gare jusqu’à la place du marché en compagnie des comités (et en fanfare !). Sur la place du marché se situe la Mairie, où le maire remet les clefs au Prince lors d’une cérémonie. Les politiques locaux et nationaux y assistent ! 
+Le samedi, le Stadsprins défile de la gare jusqu’à la place du marché en compagnie des comités (et en fanfare !). Sur la place du marché se situe la Mairie, où le maire remet les clefs au Prince lors d’une cérémonie. Les politiques locaux et nationaux y assistent !
+ 
 
 ![stadsprins ](/media/img_2638.jpg "Le Stadsprins")
 
@@ -52,7 +53,8 @@ La Mooswief (la ménagère / marchande de légumes), incarne l'esprit du carnava
 
 **Tout le monde il est gentil.** Pendant les 4 jours, je n'ai pas vu une scène de violences. Les commerçants barricadent leurs vitrines pendant Carnaval, mais je pense que c'est pour se prévenir d'accidents plutôt que de malveillance.
 
-C’est du dimanche au mardi que la fête atteint son point culminant.
+
+C’est du dimanche au mardi que la fête atteint son point culminant.
 
 ## Le dimanche
 
