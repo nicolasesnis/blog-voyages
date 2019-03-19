@@ -16,4 +16,76 @@ country: Pays-Bas
 city:
   - Maastricht
 ---
-azd
+Pour moi qui ai grandi à Paris, le carnaval, ça se résume à quelques gamins déguisés à l'école : des garçons en Batman et des filles en Cendrillon. Je pense qu'un bon article se doit de commencer par un cliché sexiste ou une blague raciste, histoire d'inciter les gens à commenter et faire le buzz. Pour moi le carnaval, c'est se moquer de ce petit garçon en CE2 qui s'est trompé de jour et est le seul déguisé de toute l'école, ahah le bolosse. Enfin, quelques moqueries à l'école n'ont jamais blessé personne, et puis ça forge le caractère !! BREF pour moi le carnaval c'est un truc qui dure 1 jour, qui est tout juste toléré dans les écoles et dont les dégâts collatéraux se limitent à trois confettis dans les cheveux et quatre heures de colle pour avoir assorti son déguisement d'un pistolet à billes non homologué. 
+
+Eh ben à Maastricht, le carnaval c'est pas du tout comme ça que ça marche. Déjà, ça dure pas 1 jour mais** 4 mois et demi**. 
+
+
+
+Vendredi, 17h. En sortant du travail, tu croises un léopard. Suivi de Monsieur de Vicomte et sa vache violette. Il serait de bon ton de prendre quelques jours de congé… pour fêter Carnaval !
+
+
+
+Le Carnaval, à Maastricht, c’est un événement. Un événement qui court sur trois jours, ou plutôt dont l’apogée dure trois jours. Car en réalité, la saison de Carnaval commence bien plus tôt.
+
+
+
+L’ouverture de Carnaval
+
+Elle a lieu le 11 novembre. À 11h11, très précisément. Ce jour n’est pas férié là-bas (comme aucun jour de Carnaval), mais de nombreux néerlandais prennent leur journée pour festoyer (uniquement dans le sud des Pays-Bas, car le Carnaval est une fête de tradition chrétienne).
+
+
+
+Si le 11 novembre donne lieu à une grosse fête et à des concerts sur le Vrijthof (il y a deux places importantes à Maastricht : la place du marché, et le Vrijthof où ont lieu toutes les festivités) et que tout le monde se déguise pour marquer le coup, il ne s’agit en réalité que du début des préparatifs.
+
+
+
+De nombreux comités vont œuvrer tout l’hiver pour préparer Carnaval. Un comité de Carnaval comporte 11 fous (le « conseil des 11 ») qui élisent un prince. Ces comités sont bien évidemment plus larges, et peuvent correspondre à tout un quartier. Si chaque comité a ainsi son prince, un prince est élu pour la ville entière : le Stadsprins (Prince de la Ville), dont l’identité est révélée 4 semaines avant le Carnaval.
+
+
+
+Le Carnaval à Maastricht est de tradition rhénane, mais si le calendrier est resté le même, et les couleurs sont bien vert, jaune et rouge, en revanche dans les costumes on voit apparaître de tout, avec parfois des costumes typiquement vénitiens ou des groupes de samba.
+
+
+
+Le « vrai » Carnaval
+
+La véritable fête commence en février, quelques jours avant le mercredi des Cendres (marquant le début de Carême… cela dit, bien que les deux événements soient associés, ceux qui fêtent le plus Carnaval ne sont pas ceux qui fêtent le plus Carême… Comme c’est surprenant !). Je dis « quelques » en restant volontairement vague, car certains commencent à faire la fête bien deux semaines avant. Mais on va raisonnablement rester sur 6 jours, ce qui nous mène au jeudi précédent le mercredi des Cendres.
+
+
+
+Jusqu’au samedi, les festivités ne sont guère encadrées.
+
+
+
+Le samedi, le Stadsprins défile de la gare jusqu’à la place du marché en compagnie des comités (et en musique !). Sur la place du marché se situe la Mairie, où le maire remet les clefs au Prince lors d’une cérémonie. Les politiques locaux et nationaux y assistent !
+
+
+
+C’est du dimanche au mardi que la fête atteint son point culminant.
+
+
+
+Le dimanche
+
+Le dimanche matin, à 11h11 encore, des coups de feu sont tirés par le Momuskanon (un petit canon datant du XIXe siècle), et la Mooswief (statue d’une vieille femme, symbole du Carnaval de Maastricht) est hissée en haut d’un mât sur la place du Vrijthof. L’après-midi a lieu la Grande Parade de Carnaval.
+
+
+
+Le lundi
+
+Le lendemain a lieu la parade des familles. Bien que, comme je l’ai déjà dit aucun jour de Carnaval ne soit férié, les écoles ont un programme allégé ces jours-ci pour permettre aux enfants de participer. Cela dit, contrairement à la très soft version française, ici, ce n’est pas une fête des enfants ! La parade du lundi leur accorde une place plus importante, mais le reste du temps, c’est très bruyant et alcoolisé !
+
+
+
+Le mardi
+
+Enfin, le dernier jour, le Mardi Gras donc, alors que la parade se poursuit, a lieu le Zaate Hermeniekeconcours, qui est un concours d’orchestres de rue. Ces orchestres jouent principalement de la musique de Carnaval. Bien que parfois on puisse reconnaître des morceaux plus « internationaux » remis à la sauce maastrichtienne, pour la plupart, je n’avais jamais entendu ces musiques auparavant. (Si tu veux avoir une idée du style, cherche « diech kins miech tralala » sur ton hébergeur de vidéos préféré…)
+
+
+
+En dehors de ces événements qui jalonnent les trois jours, les rues fourmillent de fêtards jusqu’à tard dans la nuit.
+
+
+
+Le mardi à minuit, une courte cérémonie où la Mooswief est descendue de son mât marque la fin des réjouissances… pour ceux qui ont eu l’endurance d’aller jusque là !
