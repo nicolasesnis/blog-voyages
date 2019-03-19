@@ -20,19 +20,17 @@ city:
 
 Pour moi qui ai grandi à Paris, le carnaval, ça se résume à quelques gamins déguisés à l'école : des garçons en Batman et des filles en Cendrillon. Je pense qu'un bon article se doit de commencer par un cliché sexiste ou une blague raciste, histoire d'inciter les gens à commenter et faire le buzz. Pour moi le carnaval, c'est se moquer de ce petit garçon en CE2 qui s'est trompé de jour et est le seul déguisé de toute l'école. Ahah le bolosse. Enfin, un peu d'humiliation et de victimisation à l'école n'a jamais tué personne, et puis ça forge le caractère. Bref pour moi le carnaval c'est un truc qui dure 1 jour, qui est tout juste toléré dans les écoles et dont les dégâts collatéraux se limitent à trois confettis dans les cheveux et quatre heures de colle pour avoir assorti son déguisement d'un pistolet à billes non homologué. 
 
-Eh ben à Maastricht, le carnaval c'est pas du tout comme ça que ça marche. Déjà, ça dure pas 1 jour mais** 4 mois**. Le carnaval, pour les Néerlandais, c'est une saison entière. Ensuite, c'est pas pour les enfants. Du moins en théorie : c'est une beuverie colossale, à l'échelle d'une ville entière, mais on voit quand même pas mal de gamins déguisés (sobres) avec leurs parents (ivres). 
+Eh ben à Maastricht, le carnaval c'est pas du tout comme ça que ça marche. Déjà, ça dure pas 1 jour mais **4 mois**. Le carnaval, pour les Néerlandais, c'est une saison entière. Ensuite, c'est pas pour les enfants. Du moins en théorie : c'est une beuverie colossale, à l'échelle d'une ville entière, mais on voit quand même pas mal de gamins déguisés (sobres) avec leurs parents (ivres). 
 
 ![elsa-carnaval-woman](/media/img_2607.jpg "La teuf au Carnaval")
 
-
-
-# Les préparatifs
+## Les préparatifs
 
 L'ouverture de la saison Carnaval a lieu le 11 novembre. À 11h11, très précisément. Le 11 novembre donne lieu à une grosse fête et à des concerts sur le Vrijthof (il y a deux places importantes à Maastricht : la place du marché, Markt, et le Vrijthof où ont lieu toutes les festivités). Tout le monde se déguise pour marquer le coup. C'est déjà 100 fois plus la fête que tous les carnavals de toute ma vie combinés...et ce n'est que le début des hostilités. 
 
 De nombreux comités vont œuvrer tout l’hiver pour préparer l'apogée du Carnaval, qui dure trois jours. Un comité de Carnaval comporte 11 fous (le « conseil des 11 ») qui élisent un prince. Ces comités sont bien évidemment plus larges, et peuvent correspondre à tout un quartier. Si chaque comité a ainsi son prince, un prince est élu pour la ville entière : le Stadsprins (Prince de la Ville), dont l’identité est révélée 4 semaines avant les trois jours d'orgie.
 
-# Le « vrai » Carnaval
+## Le « vrai » Carnaval
 
 La véritable fête commence en février, quelques jours avant le mercredi des Cendres (marquant le début de Carême). Certains commencent à faire la fête bien deux semaines avant. Je suis arrivé le samedi, car il paraît que c'est à ce moment là que la fête commence.
 
