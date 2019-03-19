@@ -3,7 +3,7 @@ template: post
 title: Un samedi à Bois-Le-Duc (NL)
 slug: boisleduc
 draft: true
-date: '2019-02-27T13:58:47.715Z'
+date: 2019-02-27
 description: 'Un week-end comme un autre chez les Cornichons Voyageurs : sur la route...'
 category: Week-End
 tags:
