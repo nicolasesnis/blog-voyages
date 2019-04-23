@@ -2,7 +2,7 @@
 template: post
 title: De Paris à la Toscane - Roadtrip en Italie (1/10)
 slug: roadrip-italie-1
-draft: false
+draft: true
 date: 2019-03-29T11:01:27.605Z
 description: >-
   De Paris à Rome...en passant par La Baule et Toulouse ! Début de notre
@@ -38,11 +38,23 @@ Un roadtrip de deux mois en Italie s'imposait à nous ! Cet article est le 1er d
 
 ![itineraire-italie](/media/capture-d’écran-2019-03-29-à-13.12.46.png "Itinéraire en Italie 2018")
 
-## Dormir dans la voiture en Italie : seulement si vous êtes très motivé et chanceux
+## Dormir dans la voiture en Italie : seulement si vous êtes très motivés et chanceux
+
+Déjà le camping-car on oublie : vous pourrez vous garer nulle part, et on vous regardera très mal partout où vous allez. Les Italiens tiennent à leurs plages et, on les comprend, regardent d'un mauvais oeil les hordes de caravaniers en slip kangourou qui les envahissent chaque été.
+
+![kangourou](/media/img_0170.jpg "Un heureux vacancier")
+
+_Joli slip bleu sur les sentiers de rando des 5 Terres..._
+
+Les camping car, et les grands [ludospaces](https://fr.wikipedia.org/wiki/Ludospace) en général, sont même interdits dans beaucoup de villes côtières et parkings. 
+
+Ensuite, partir en voiture, c'est tirer à pile ou face pour ne pas se faire péter une vitre. Surtout si vous passez la ligne de Naples.
+
+Enfin, préparez-vous à galérer pour vous garer. 
+
+
 
 Très 
-
-
 
 Paris -> Piriac
 
