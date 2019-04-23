@@ -1,8 +1,8 @@
 ---
 template: post
-title: De Paris à Rome - Roadtrip en Italie (1/10)
+title: De Paris à la Toscane - Roadtrip en Italie (1/10)
 slug: roadrip-italie-1
-draft: true
+draft: false
 date: 2019-03-29T11:01:27.605Z
 description: >-
   De Paris à Rome...en passant par La Baule et Toulouse ! Début de notre
@@ -20,12 +20,13 @@ city:
   - Mandelieu-la-Napoule
   - Cannes
   - San Remo
-  - Savona
-  - Genova
+  - Savone
+  - Gênes
   - Portofino
   - Monterosso al Mare
   - Vernazza
   - Manarola
+  - ''
 ---
 Les étoiles étaient alignées :  
 
