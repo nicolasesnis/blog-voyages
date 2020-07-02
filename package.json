@@ -38,7 +38,7 @@
   ],
   "dependencies": {
     "applause-button": "^3.3.0",
-    "bluebird": "^3.5.2",
+    "bluebird": "^3.7.2",
     "classnames": "^2.2.6",
     "codecov": "^3.6.5",
     "gatsby": "^2.0.116",
