@@ -16,8 +16,6 @@ country: États-Unis
 city:
   - New York City
 ---
-
-
 ![little-italy-bill](/media/5dac44aa-9f14-4b29-a60f-f82bb4d445a3.jpeg "Little Italy")
 
 En Avril 2019, j'ai commencé une mission de Data Analyst chez Adikteev. Un mois de training à Paris, puis décollage pour les bureaux de San Francisco, pour supporter les équipes US!
